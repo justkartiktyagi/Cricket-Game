@@ -1,0 +1,23 @@
+*{
+    background-color: azure;
+}
+body{
+    text-align: center;
+}
+
+.choice-button{
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    border-radius: 50px;
+    background-color: aquamarine;
+}
+#bat{
+    width: 20px;
+}
+
+.choice-images{
+    height: 75px;
+    border-radius: 50px;
+}
